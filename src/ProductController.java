@@ -203,4 +203,8 @@ public class ProductController {
         }
     }
 
+    private int aabc = 1;
+
 }
+
+//ny kod
