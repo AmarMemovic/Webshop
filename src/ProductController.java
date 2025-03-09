@@ -205,6 +205,7 @@ public class ProductController {
 
     private int aabc = 1;
     private int getAabc = 10;
+    int vvv = 15;
 
 }
 
