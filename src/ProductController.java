@@ -207,7 +207,7 @@ public class ProductController {
     private int getAabc = 10;
     int vvv = 15;
     public String A = "This is good";
-
+    double LIA = 22.2;
 }
 
 //ny kod
